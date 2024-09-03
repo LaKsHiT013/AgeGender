@@ -1,0 +1,6 @@
+streamlit
+keras
+tensorflow
+pillow
+huggingface-hub
+numpy
